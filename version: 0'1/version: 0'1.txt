@@ -1,1 +1,2 @@
 This is the first build of PY-DOS.
+you will have to set the directories before you do any thing and I gave up on making the Filedict work.
